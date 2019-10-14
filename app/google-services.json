@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162833622502",
+    "firebase_url": "https://hacktober-e1979.firebaseio.com",
+    "project_id": "hacktober-e1979",
+    "storage_bucket": "hacktober-e1979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162833622502:android:bd11057e60ff24130da227",
+        "android_client_info": {
+          "package_name": "android.developerstrio.com.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162833622502-hqev1loqvmt66n7de5k87lvvnd376co1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYEEdDNQPA1OgnCcf6Q_I7S3-JKGUEmms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162833622502-hqev1loqvmt66n7de5k87lvvnd376co1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
